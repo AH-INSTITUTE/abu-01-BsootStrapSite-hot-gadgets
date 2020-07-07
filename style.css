@@ -1,0 +1,54 @@
+
+#header nav{
+    background-color: #fff;
+}
+#header img{
+    width: 100px;
+}
+.container{
+    margin-bottom: 100px;
+}
+#carousel{
+
+}
+.carousel-item{
+    padding: 10px 60px;
+}
+.carousel-control-prev{
+    margin-left: -115px;
+    
+}
+.carousel-control-prev-icon{
+    margin-left: 130px;
+}
+.carousel-control-next{
+    margin-right: -115px;
+}
+.carousel-control-next-icon{
+    margin-right: 130px;;
+}
+.card-style{
+    box-shadow: 3px 5px 3px lightgray;
+}
+.cardFooter{
+    border-top: none;
+    background-color: #fff;
+}
+#categories{
+   
+}
+#categories h3 {
+    margin-bottom: 55px;
+    border-bottom: 5px solid yellow;
+    border-radius: 50%;
+}
+#categories img{
+    width: 100%;
+}
+.single-img{
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 20px 0 20px 0;
+}
+.footer{
+    margin-bottom: 0;
+}
